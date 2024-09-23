@@ -1,0 +1,11 @@
+main()
+{
+add()
+{
+ printf("addition");
+}
+sub()
+{
+printf("subtraction");
+}
+}
